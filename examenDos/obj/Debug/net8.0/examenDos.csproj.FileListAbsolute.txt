@@ -30,3 +30,4 @@ C:\Users\Ever\Desktop\UNIVERSIDAD\ll periodo 2024\POO\unidad 2\ExamenDosPoo\exam
 C:\Users\Ever\Desktop\UNIVERSIDAD\ll periodo 2024\POO\unidad 2\ExamenDosPoo\examenDos\obj\Debug\net8.0\examenDos.pdb
 C:\Users\Ever\Desktop\UNIVERSIDAD\ll periodo 2024\POO\unidad 2\ExamenDosPoo\examenDos\obj\Debug\net8.0\examenDos.genruntimeconfig.cache
 C:\Users\Ever\Desktop\UNIVERSIDAD\ll periodo 2024\POO\unidad 2\ExamenDosPoo\examenDos\obj\Debug\net8.0\ref\examenDos.dll
+C:\Users\Ever\Desktop\UNIVERSIDAD\ll periodo 2024\POO\unidad 2\ExamenDosPoo\examenDos\obj\Debug\net8.0\examenDos.sourcelink.json
