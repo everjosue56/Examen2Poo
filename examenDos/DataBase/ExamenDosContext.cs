@@ -13,6 +13,8 @@ namespace examenDos.DataBase
 
 
         public DbSet<CustomersEntity> Customers { get; set; }
+        public DbSet<LoanEntity> Loans { get; set; }
+        public DbSet<AmortizationDetailEntity> AmortizationDetails { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

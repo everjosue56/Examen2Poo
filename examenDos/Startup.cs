@@ -21,20 +21,13 @@ namespace examenDos
             services.AddSwaggerGen();
 
             services.AddScoped<ICustomersService, CustomerService>();
+            services.AddScoped<ILoanService, LoanService>();
 
             //add Dbcontext
 
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer
             (Configuration.GetConnectionString("DefaultConnection")));
-             
-
-
-
-
-            //ADD AUTOMAPER
-
-            //services.AddAutoMapper(typeof(AutoMapperProfile));
-
+            
         } 
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
