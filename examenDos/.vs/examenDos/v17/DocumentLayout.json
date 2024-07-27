@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\service\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:service\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\service\\interface\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:service\\interface\\icustomersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\dtos\\customers\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:dtos\\customers\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\dtos\\customers\\createcustomersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:dtos\\customers\\createcustomersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\dtos\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:dtos\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\database\\examendoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:database\\examendoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\database\\entities\\customersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:database\\entities\\customersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{502926D6-1165-49B4-9C7C-3D76536FFD49}|examenDos.csproj|c:\\users\\ever\\desktop\\universidad\\ll periodo 2024\\poo\\unidad 2\\examendospoo\\examendos\\examendos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,59 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Dtos\\common\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\common\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Dtos\\common\\ResponseDto.cs",
+              "RelativeToolTip": "Dtos\\common\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:55:01.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Dtos\\Customers\\CreateCustomersDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Customers\\CreateCustomersDto.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Dtos\\Customers\\CreateCustomersDto.cs",
+              "RelativeToolTip": "Dtos\\Customers\\CreateCustomersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:37:59.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Dtos\\Customers\\CustomersDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Customers\\CustomersDto.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Dtos\\Customers\\CustomersDto.cs",
+              "RelativeToolTip": "Dtos\\Customers\\CustomersDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:37:46.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomersService.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Service\\Interface\\ICustomersService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ICustomersService.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Service\\Interface\\ICustomersService.cs*",
+              "RelativeToolTip": "Service\\Interface\\ICustomersService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:30:23.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CustomersService.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Service\\CustomersService.cs",
+              "RelativeDocumentMoniker": "Service\\CustomersService.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Service\\CustomersService.cs",
+              "RelativeToolTip": "Service\\CustomersService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwGwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:05:37.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:00:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T19:48:13.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "examenDos",
-              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\examenDos.csproj",
-              "RelativeDocumentMoniker": "examenDos.csproj",
-              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\examenDos.csproj*",
-              "RelativeToolTip": "examenDos.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T19:46:03.897Z",
+              "DocumentIndex": 7,
+              "Title": "ExamenDosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\DataBase\\ExamenDosContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\ExamenDosContext.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\DataBase\\ExamenDosContext.cs",
+              "RelativeToolTip": "DataBase\\ExamenDosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:21:59.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "CustomersEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\DataBase\\Entities\\CustomersEntity.cs",
+              "RelativeDocumentMoniker": "DataBase\\Entities\\CustomersEntity.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\DataBase\\Entities\\CustomersEntity.cs",
+              "RelativeToolTip": "DataBase\\Entities\\CustomersEntity.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:11:13.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\Controllers\\CustomersController.cs*",
+              "RelativeToolTip": "Controllers\\CustomersController.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:26:15.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-26T19:45:25.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-26T19:43:20.321Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "examenDos.csproj",
+              "DocumentMoniker": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\examenDos.csproj",
+              "RelativeDocumentMoniker": "examenDos.csproj",
+              "ToolTip": "C:\\Users\\Ever\\Desktop\\UNIVERSIDAD\\ll periodo 2024\\POO\\unidad 2\\ExamenDosPoo\\examenDos\\examenDos.csproj",
+              "RelativeToolTip": "examenDos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T22:08:29.773Z"
             }
           ]
         }
