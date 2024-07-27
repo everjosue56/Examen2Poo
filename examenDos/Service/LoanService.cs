@@ -46,7 +46,7 @@ namespace examenDos.Service
                 StatusCode = 201,
                 Status = true,
                 Data = amortizationScheduleDto,
-                Message = "Loan and amortization plan successfully created."
+                Message = "Plan de prestamo y amortizacion creado con exito."
             };
         }
 
@@ -60,7 +60,7 @@ namespace examenDos.Service
                     StatusCode = 404,
                     Status = false,
                     Data = null,
-                    Message = "Loan not found for the client"
+                    Message = "prestamo no encontrado para cliente"
                 };
             }
 
@@ -89,7 +89,7 @@ namespace examenDos.Service
                 StatusCode = 200,
                 Status = true,
                 Data = scheduleDto,
-                Message = "Amortization schedule retrieved successfully"
+                Message = "amortizacion encontrado correctamente"
             };
         }
 
@@ -98,10 +98,10 @@ namespace examenDos.Service
             var schedule = new List<AmortizationDetailDto>();
 
             decimal principalBalance = loan.Amount;
-            decimal monthlyInterestRate = loan.InterestRate / 100 / 12m; // Usa 'm' para asegurar que es decimal
+            decimal monthlyInterestRate = loan.InterestRate / 100 / 12m;  
             double interestRateDouble = (double)monthlyInterestRate;
 
-            // Calcular el pago nivelado sin SVSD
+            // Calcula el pago nivelado sin SVSD
             double denominator = Math.Pow(1 + interestRateDouble, -loan.Term);
             decimal levelPaymentWithoutSVSD = (loan.Amount * (decimal)interestRateDouble) / (1 - (decimal)denominator);
 
@@ -119,11 +119,11 @@ namespace examenDos.Service
                     Interest = interest,
                     Principal = principal,
                     LevelPaymentWithoutSVSD = levelPaymentWithoutSVSD,
-                    LevelPaymentWithSVSD = levelPaymentWithoutSVSD + 10, // Placeholder para con SVSD
+                    LevelPaymentWithSVSD = levelPaymentWithoutSVSD + 10,  
                     PrincipalBalance = principalBalance
                 });
 
-                // Guardar cada detalle de amortización en la base de datos
+                // Guarda cada amortización en la base de datos
                 _context.AmortizationDetails.Add(new AmortizationDetailEntity
                 {
                     Id = Guid.NewGuid(),
@@ -134,7 +134,7 @@ namespace examenDos.Service
                     Interest = interest,
                     Principal = principal,
                     LevelPaymentWithoutSVSD = levelPaymentWithoutSVSD,
-                    LevelPaymentWithSVSD = levelPaymentWithoutSVSD + 10, // Placeholder para con SVSD
+                    LevelPaymentWithSVSD = levelPaymentWithoutSVSD + 10,  
                     PrincipalBalance = principalBalance
                 });
             }

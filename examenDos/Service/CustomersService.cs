@@ -36,7 +36,7 @@ namespace examenDos.Service
                 StatusCode = 200,
                 Status = true,
                 Data = CustomersDtos,
-                Message = "Assessments retrieved successfully",
+                Message = "Customers retrieved successfully",
 
             };
         }
@@ -52,7 +52,7 @@ namespace examenDos.Service
                     StatusCode = 404,
                     Status = false,
                     Data = null,
-                    Message = "Assessment not found",
+                    Message = "Customers not found",
 
                 };
             }
@@ -72,7 +72,7 @@ namespace examenDos.Service
                 StatusCode = 200,
                 Status = true,
                 Data = customersDto,
-                Message = "Assessment retrieved successfully",
+                Message = "Customers retrieved successfully",
 
             };
         }
@@ -107,7 +107,7 @@ namespace examenDos.Service
                 StatusCode = 201,
                 Status = true,
                 Data = customersDto,
-                Message = "Assessment created successfully",
+                Message = "Customers created successfully",
 
             };
         }
